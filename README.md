@@ -1,1 +1,1 @@
-# Earthquake-Data-Analytics_Python
+# Earthquake-Data-Analytics with Python
