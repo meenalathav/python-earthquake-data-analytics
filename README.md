@@ -15,4 +15,8 @@
 <br>
 <hr>
 <h2>Step 2</h2>
+<p>Running the model_earthquakes.py application to insert earthquake data into index.sqlite DB:</p>
+<img alt = "Screen capture of the running program" src = "./Images/datacleaning.png" align = "center">
+
+
 
