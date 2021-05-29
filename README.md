@@ -25,11 +25,20 @@
 <img alt = "Screen capture of the running program" src = "./Images/statistics.png" align = "center">
 <img alt = "Screen capture of the running program" src = "./Images/statistics2.png" align = "center">
 
+<br>
 <p>Running the plots.py program to visualize the statistics through graphs, charts, and plots:</p>
 <img alt = "Bar Graph" src = "./Visualization/bargraph_A5.png" align = "center">
 <img alt = "Bubble Chart" src = "./Visualization/bubblechart_A5.png" align = "center">
 <img alt = "Word Cloud" src = "./Visualization/wordcloud_A5.png" align = "center">
 <img alt = "Histogram" src = "./Visualization/histogram_A5.png" align = "center">
+
+<br>
+<hr>
+
+<h2>Step 4 (Optional)</h2>
+<p>Running the Earthquake_stats.py program to display basic earthquake statistics established in Step 3 but this time using OOP and Pandas dataframe:</p>
+<img alt = "Screen capture of running program" src = "./Images/oop_pandas.png" align = "center">
+
 
 
 
