@@ -18,5 +18,20 @@
 <p>Running the model_earthquakes.py application to insert earthquake data into index.sqlite DB:</p>
 <img alt = "Screen capture of the running program" src = "./Images/datacleaning.png" align = "center">
 
+<br>
+<hr>
+<h2>Step 3</h2>
+<p>Running the stats.py program to display top places, top regions and calculate basic statistics:</p>
+<img alt = "Screen capture of the running program" src = "./Images/statistics.png" align = "center">
+<img alt = "Screen capture of the running program" src = "./Images/statistics2.png" align = "center">
+
+<p>Running the plots.py program to visualize the statistics through graphs, charts, and plots:</p>
+<img alt = "Bar Graph" src = "./Visualization/bargraph_A5.png" align = "center">
+<img alt = "Bubble Chart" src = "./Visualization/bubblechart_A5.png" align = "center">
+<img alt = "Word Cloud" src = "./Visualization/wordcloud_A5.png" align = "center">
+<img alt = "Histogram" src = "./Visualization/histogram_A5.png" align = "center">
+
+
+
 
 
