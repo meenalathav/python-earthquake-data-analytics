@@ -37,11 +37,11 @@ Each time model_earthquakes.py runs - it will completely wipe out and re-build i
     <li>tsunami</li>
     </ul>
 Add a new additional column/variable named "region". Region is similar to place but more general-this will allow us to compute statistics and create plots by region.</p> 
-<p><i>place: 118km E of Kimbe, Papua New Guinea 
+<p><i>place: 118km E of Kimbe, Papua New Guinea | 
 region: Papua New Guinea</i></p>
-<p><i>place: 22km SSW of Bodfish, CA 
+<p><i>place: 22km SSW of Bodfish, CA | 
 region: California</i></p>
-<p><i>place: 253km W of Ferndale, California
+<p><i>place: 253km W of Ferndale, California | 
 region: California</i></p>
 <p>This requires the place be run through a cleaning process to group earthquake places into larger regions. This process should addresses several problems with the place variable.</p>
 <p>The place names above are too specific to allow for us to determine how many earthquakes occur in a particular location.
